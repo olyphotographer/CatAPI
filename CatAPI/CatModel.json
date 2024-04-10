@@ -1,0 +1,25 @@
+[
+    {
+        "weight": {
+            "imperial": "7  -  10",
+            "metric": "3 - 5"
+        },
+        "id": "abys",
+        "name": "Abyssinian",
+        "temperament": "Active, Energetic, Independent, Intelligent, Gentle",
+        "origin": "Egypt",
+        "description": "The Abyssinian is easy to care for, and a joy to have in your home. They’re affectionate cats and love both people and other animals.",
+        "life_span": "14 - 15",
+        "indoor": 0,
+        "wikipedia_url": "https://en.wikipedia.org/wiki/Abyssinian_(cat)",
+        "intelligence" : 3,
+        "child_friendly" : 2,
+        "temperament": "Dependent, Gentle, Intelligent, Quiet, Social",
+        "image": {
+            "id": "0XYvRd7oD",
+            "width": 1204,
+            "height": 1445,
+            "url": "https://cdn2.thecatapi.com/images/0XYvRd7oD.jpg"
+        }
+    }
+]
